@@ -85,5 +85,5 @@ corr_plot(x, y_corr, c_sat, T, field_sat, coercivity, remanence)
 
 
 # #Report file
-report(data_file, out_file, m_dia, field_sat, c_sat, coercivity, remanence )
+#report(data_file, out_file, m_dia, field_sat, c_sat, coercivity, remanence )
 
